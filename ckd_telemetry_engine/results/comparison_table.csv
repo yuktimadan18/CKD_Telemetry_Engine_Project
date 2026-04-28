@@ -1,0 +1,7 @@
+Model,Accuracy,Precision (Weighted),Recall (Weighted),F1-Score (Weighted),F1-Score (Macro),ROC-AUC (Macro),Training Time (s),CV F1 Mean,CV F1 Std
+Logistic Regression,0.8720,0.8616,0.8720,0.8562,0.5215,0.9813,0.05,0.8291,+-0.0186
+K-Nearest Neighbors,0.8627,0.8480,0.8627,0.8480,0.6033,0.8806,0.00,0.8360,+-0.0188
+Support Vector Machine,0.9280,0.9301,0.9280,0.9226,0.6982,0.9926,0.38,0.9168,+-0.0044
+Random Forest,0.9320,0.9307,0.9320,0.9288,0.7907,0.9933,0.61,0.9292,+-0.0103
+Gradient Boosting,0.9280,0.9263,0.9280,0.9266,0.7564,0.9886,15.84,0.9112,+-0.0104
+Neural Network (MLP),0.9107,0.9040,0.9107,0.9045,0.5948,0.9789,0.24,0.8998,+-0.0208
